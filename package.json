@@ -18,13 +18,10 @@
       "access": "public"
     },
     "devDependencies": {
-      "@cloud-cli/jest-config": "^1.0.0",
       "@cloud-cli/prettier-config": "^1.0.0",
       "@cloud-cli/rollup-config": "^1.0.0",
       "@cloud-cli/typescript-config": "^1.0.0",
-      "@types/node": "^18.15.11"
-    },
-    "dependencies": {
-      "@cloud-cli/gw": "^1.6.1"
+      "@types/node": "^18.15.11",
+      "typescript": "^5.0.0"
     }
   }
